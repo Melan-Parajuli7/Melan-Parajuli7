@@ -6,11 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Melan;Full+Stack+Developer;Building+Agentic+AI+systems;Learning+LangChain+%26+LangGraph" alt="Typing SVG" />
   </a>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=melan-parajuli7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/melan-parajuli7?style=for-the-badge&logo=github&color=7b2ff7" alt="Followers" />
-  </p>
-
+  
   <p>
     <a href="https://melanparajuli.com.np"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:melanparajuli99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
