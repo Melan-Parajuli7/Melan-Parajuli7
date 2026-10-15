@@ -22,7 +22,7 @@
 const melan = {
   location: "Nepal 🇳🇵",
   role: "Full Stack Developer",
-  currentlyWorkingOn: "Agentic AI 🤖",
+  currentlyWorkingOn: "Agentic AI ",
   currentlyLearning: ["Scriptwriting", "LangChain", "LangGraph"],
   lookingToCollaborateOn: "Backend Ledger",
   askMeAbout: ["JavaScript", "Figma", "Full Stack Development"],
@@ -83,7 +83,8 @@ const melan = {
 ---
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i> 😄
+  <i>"In Order to be the Best, You have to Beat the Best"</i> 
+              <i>"and the Best is BLESSED...."</i>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:0e75b6&height=100&section=footer" alt="Footer" />
 </div>
