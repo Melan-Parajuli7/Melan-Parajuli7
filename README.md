@@ -32,7 +32,7 @@ const melan = {
 
 | | |
 |---|---|
-| 🔭 **Working on** | [Elevator App](https://github.com/Melan-Parajuli7/Elevator-App-) |
+| 🔭 **Working on** | [Sewa Setu](https://github.com/Melan-Parajuli7/SewaSetu) |
 | 🌱 **Learning** | Scriptwriting, LangChain, LangGraph & more |
 | 👯 **Collaborating on** | [Backend Ledger](https://github.com/Melan-Parajuli7/BankLedger-Backend) |
 | 🌐 **All my projects** | [melanparajuli.com.np](https://melanparajuli.com.np) |
