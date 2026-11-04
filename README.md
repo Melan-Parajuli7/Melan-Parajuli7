@@ -22,7 +22,7 @@
 const melan = {
   location: "Nepal 🇳🇵",
   role: "Full Stack Developer",
-  currentlyWorkingOn: "Agentic AI ",
+  currentlyWorkingOn: "SewaSetu ",
   currentlyLearning: ["Scriptwriting", "LangChain", "LangGraph"],
   lookingToCollaborateOn: "Backend Ledger",
   askMeAbout: ["JavaScript", "Figma", "Full Stack Development"],
