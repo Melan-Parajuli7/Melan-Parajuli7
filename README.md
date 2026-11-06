@@ -22,7 +22,7 @@
 const melan = {
   location: "Nepal 🇳🇵",
   role: "Full Stack Developer",
-  currentlyWorkingOn: "SewaSetu ",
+  currentlyWorkingOn: "SewaSetu & BorrowCircle",
   currentlyLearning: ["Scriptwriting", "LangChain", "LangGraph"],
   lookingToCollaborateOn: "Backend Ledger",
   askMeAbout: ["JavaScript", "Figma", "Full Stack Development"],
@@ -32,7 +32,7 @@ const melan = {
 
 | | |
 |---|---|
-| 🔭 **Working on** | [Sewa Setu](https://github.com/Melan-Parajuli7/SewaSetu) |
+| 🔭 **Working on** | [Sewa_Setu](https://github.com/Melan-Parajuli7/SewaSetu) & [BorrowCircle](https://github.com/Melan-Parajuli7/Borrow-Circle) |
 | 🌱 **Learning** | Scriptwriting, LangChain, LangGraph & more |
 | 👯 **Collaborating on** | [Backend Ledger](https://github.com/Melan-Parajuli7/BankLedger-Backend) |
 | 🌐 **All my projects** | [melanparajuli.com.np](https://melanparajuli.com.np) |
