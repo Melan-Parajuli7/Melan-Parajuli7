@@ -74,8 +74,7 @@ const melan = {
 --- 
 
 <div align="center">
-  <i>"In Order to be the Best, You have to Beat the Best"</i> 
-              <i>"and the Best is BLESSED...."</i>
+  <i>You become what you Believe...!</i> 
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:0e75b6&height=100&section=footer" alt="Footer" />
 </div>
