@@ -68,21 +68,6 @@ const melan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=melan-parajuli7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melan-parajuli7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=melan-parajuli7&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melan-parajuli7&theme=onedark&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
-</div>
-
----
-
-<div align="center">
   <i>"In Order to be the Best, You have to Beat the Best"</i> 
               <i>"and the Best is BLESSED...."</i>
   <br/><br/>
