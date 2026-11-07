@@ -88,3 +88,7 @@ const melan = {
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:0e75b6&height=100&section=footer" alt="Footer" />
 </div>
+
+<p align="center">
+  <img src="tulkun/tulkun.gif" width="640" alt="GitTulkun swimming" />
+</p>
