@@ -65,7 +65,7 @@ const melan = {
 
 ---
 
-## 📊 GitHub Stats
+## 🐋 My Fish
 
 <p align="center">
   <img src="tulkun/tulkun.gif" width="640" alt="GitTulkun swimming" />
