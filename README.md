@@ -72,7 +72,6 @@ const melan = {
 </p>
 
 --- 
-
 <div align="center">
   <i>You become what you Believe...!</i> 
   <br/><br/>
