@@ -1,10 +1,6 @@
 <!-- HEADER BANNER -->
-<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7b2ff7&height=160&section=header" alt="Header" />
-
-  <h1>Melan Parajuli</h1>
-  <h3>Full Stack Developer</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7b2ff7&height=200&section=header&text=Melan%20Parajuli&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Kathmandu%2C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=58&descSize=18" alt="Melan Parajuli" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Melan;Full+Stack+Developer;Building+Agentic+AI+systems;Learning+LangChain+%26+LangGraph" alt="Typing SVG" />
@@ -16,6 +12,7 @@
     <a href="https://linkedin.com/in/melan-parajuli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 </div>
+
 ---
 
 ## 👨‍💻 About Me
