@@ -19,7 +19,7 @@
 
 ```js
 const melan = {
-  location: "Nepal 🇳🇵",
+  location: "Kathmandu, Nepal 🇳🇵",
   role: "Full Stack Developer",
   currentlyWorkingOn: "SewaSetu & BorrowCircle",
   currentlyLearning: ["Scriptwriting", "LangChain", "LangGraph"],
