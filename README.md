@@ -22,7 +22,7 @@ const melan = {
   location: "Kathmandu, Nepal 🇳🇵",
   role: "Full Stack Developer",
   currentlyWorkingOn: "SewaSetu & BorrowCircle",
-  currentlyLearning: ["Scriptwriting", "LangChain", "LangGraph"],
+  currentlyLearning: ["Scriptwriting", "LangChain", "LangGraph", "Ai-Engineering"],
   lookingToCollaborateOn: "Backend Ledger",
   askMeAbout: ["JavaScript", "Figma", "Full Stack Development"],
   reachMe: "melanparajuli99@gmail.com",
